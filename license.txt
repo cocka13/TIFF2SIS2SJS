@@ -1,0 +1,38 @@
+TIFF2SIS2SJS, Version 1.3
+© 2005 Zavod za fotogrametriju d.d. Zagreb, HR 
+All Rights Reserved 
+
+
+.: License Agreement :.
+
+You should carefully read the following terms and conditions before using this software. Unless you have a different license agreement signed by Zavod za fotogrametriju d.d. use of this software indicates your acceptance of this 
+license agreement and warranty. 
+
+
+.: User Rights :.
+
+This program is freeware and Zavod za fotogrametriju d.d. licenses you to use it free of charge and for unlimited period of time. 
+
+Zavod za fotogrametriju d.d. will do its best to provide you with, but will not guarantee, free bug fixes and technical support via e-mail. Zavod za fotogrametriju d.d. retains the right to discontinue all, or any part of, support for this program at any moment and without notice.
+
+
+.: Disclaimer of Warranty :.
+
+This program and the accompanying files are provided "as is" and without warranties as to performance or any other warranties whether expressed or implied. Because of the various hardware and software environments into which TIFF2SIS2SJS may be put, no warranty of fitness for a particular purpose is offered. 
+
+Good data processing procedure dictates that any program be thoroughly tested with non-critical data before relying on it. The user must assume the entire risk of using the program. Zavod za fotogrametriju d.d. do not accept any liability and under no circumstances will be responsible for any loss of data or any other damage resulting from using this program. 
+
+ 
+.: Distribution :.
+
+You may freely distribute this program's installation archive as long as you preserve its original integrity and do not make any profit. 
+
+
+.: Governing Law :.
+
+This agreement shall be governed by the International Copyright laws. 
+
+ 
+Zavod za fotogrametriju d.d.
+
+

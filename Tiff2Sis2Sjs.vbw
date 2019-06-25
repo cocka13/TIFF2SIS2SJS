@@ -1,0 +1,6 @@
+frmGlavna = 15, 0, 1042, 754, , 24, 49, 736, 583, C
+modKontrola = 30, 83, 708, 512, 
+modVanjskeDatoteke = 78, 66, 969, 716, 
+frmAbout = 110, 145, 908, 749, C, 110, 145, 701, 593, C
+modGenerator = 22, 7, 1117, 777, Z
+frmTextBox = 154, 154, 877, 790, , 148, 150, 1169, 802, C
